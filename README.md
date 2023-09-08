@@ -6,7 +6,7 @@
 If your data structure is well-defined and follows a structured schema.
 If you require complex transactions, relational integrity, and advanced querying capabilities (e.g., complex joins), MySQL might be a better fit.
 MySQL is a solid choice for applications where data consistency and ACID (Atomicity, Consistency, Isolation, Durability) compliance are critical.
-MongoDB (NoSQL Database):
+
 
 ## Choose MongoDB 
 If your data is semi-structured or unstructured, or if it evolves over time.
